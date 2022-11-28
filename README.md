@@ -33,10 +33,7 @@ THEN the password is either displayed in an alert or written to the page
 
 The following image shows the web application's appearance:
 
-![portfolio-image](./assests/images/tripping-portfolio-jk2.jpeg)
-
-
-
+![password-image](./assets/images/password-scramble-jk.jpg)
 
 ## Website
 
