@@ -39,7 +39,7 @@ function writePassword(event) {
         alert ("Password is not between 8 and 128 characters. Please try again.");
     }
     else if (lowerCaseSel === false && upperCaseSel === false && numberSel === false && symbolSel === false) {
-        alert("You must chose at least one password criteria.");
+        alert("Please choose at least one password criteria.");
     }
 
     // Generate password
